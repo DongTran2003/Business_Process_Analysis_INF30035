@@ -1,6 +1,6 @@
 # Business_Process_Analysis_INF30035
 
-**I. Case Study: Swinburne Guru Consulting Coaching Processes**
+## **I. Case Study: Swinburne Guru Consulting Coaching Processes**
 
 Swinburne Guru Consulting (SGC) is a small business in Hawthorn. Established in January 2012, it operates from an office in the Hawthorn area. Emily Sodapop owns the business and has four permanent employees. Her business coaches individuals and organisations in teamwork, leadership, and personal performance coaching. The coaching is conducted by Emily and a team of coaches who work on a session-by-session basis. The other coaches operate as subcontractors.
 SGC started as a home-based business with Emily as the sole operator. Originally, most of Emily’s work came from recommendations from other consulting agencies and associates. Some of her work also came through her LinkedIn account or other sources. The amount of work grew, so Emily could not handle it alone. She sometimes had to recruit other coaches to take on or help her with some of the work. Seeing an opportunity, the Swinburne Guru Consulting business began, and it has blossomed ever since. A website and a Facebook presence were created. The business has grown to the point that she now provides work to other coaches regularly. There is roughly a 50:50 split between one-to-one work, where a coach deals with one person at a time, and group sessions, where a company might, for example, run a teamwork workshop for several of its employees simultaneously.
@@ -8,9 +8,11 @@ Over time, Emily hired a full-time receptionist and personal assistant. A part-t
 SGC has a basic website that describes the business and its coaching services, a page with the main people and coaches involved with SGC, testimonials from happy clients, and a “Contact us” page for enquiries. The website is not the main source of attracting business and possibly lacks the polish and finesse that one would expect from a professional-quality website.
 
 **The challenge**
+
 While in the past, business processes tended to change only slowly over time, Emily and her management team firmly hold that SGC must be able to adapt and improve their processes more rapidly. The terms “agile” and “agile development” have now become common terminology within the management team to reflect the idea that the organisation must rapidly adapt as needed to any future changes. However, they have been aware that making changes in the past has been difficult. An external consultant was hired to investigate their corporate culture, and the issues mentioned above were presented. Emily and her management team are absorbing the lessons and considering what needs to be done. One lesson they have already learned is that they need to improve business operational efficiency through clear, effective, and well-documented processes to assist the business with smooth operations. Business process models must be able to be easily updated to reflect the current operations and future requirements and should be created in a format that facilitates scalability to allow for these future changes. However, SGC cannot afford to maintain a full-time process management team, and it is considered very important that an “average” employee, with relatively little training, should eventually be able to maintain and adapt business process models to reflect current and future needs.
 
 **Project requirements and scope**
+
 The following objectives were decided upon in a series of meetings with senior management:
 • Creating process mapping descriptions using Business Process Modelling Notation (BPMN).
 • A small number of key processes to be developed and mapped out.
@@ -19,6 +21,7 @@ The following objectives were decided upon in a series of meetings with senior m
 As a trial, the current coaching management processes (such as handling customer enquiries, searching for coaches, scheduling, verifying, payment, and managing blacklist) are modelled. Any issues with the processes need to be highlighted, and suggestions for improvement should be proposed. New process models representing the desired process should be developed as needed.
 
 **Current Coaching Management Process Description**
+
 Clients call the company to request a personal tutor or coach to develop some particular skill or ability. The company engages a suitable tutor or coach on behalf of the client and handles all the accounting for the relationship for a fee. This is called an assignment.
 
 The assignment process starts when the receptionist, Linda, receives a communication from a potential client by phone, in person, or email requesting coaching assistance. The receptionist creates an assignment, which begins the process. The receptionist requires personal information from the client such as name and address, contact details, and the location(s) where the coaching is required by the client, plus information about the client’s availability and reasons why they require a coach. The receptionist will check if the client has called previously, in which case much of this information will already be held, but still requires confirmation. When the information is complete, the receptionist submits the request. For the clients forwarded by Emily’s LinkedIn account or other sources, such as Emily’s friends or other businesses, after Emily reviews, she will forward them to the receptionist to record details. The process will be the same as other clients, but some of them may receive some discounts.
